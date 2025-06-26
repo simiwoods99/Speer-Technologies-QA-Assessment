@@ -1,0 +1,17 @@
+{
+  "name": "coding-assignment",
+  "version": "0.0.1",
+  "description": "Coding Assignment Solution",
+  "license": "MIT",
+  "author": "Samir Khiri",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0",
+    "prompt-sync": "^4.2.0",
+    "xmldom": "^0.6.0"
+  }
+}
