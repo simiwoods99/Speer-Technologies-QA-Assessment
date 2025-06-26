@@ -26,7 +26,7 @@ A lightweight **Node.js script** that crawls Wikipedia articles starting from a 
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/simiwoods99/wiki-spider.git
+git clone https://github.com/simiwoods99/Speer-Technologies-QA-Assessment.git
 cd ./Speer-Technologies-QA-Assessment/
 npm install
 ```
